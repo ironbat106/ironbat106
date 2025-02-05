@@ -1,18 +1,51 @@
-# 💫 About Me:
-🌟 Embarking on my journey in the world of technology, I'm currently in a Computer Science degree at my university. With a CGPA of 3.27, I’m dedicated to enhancing it to a 3.50+ as I pursue my passion for Software Engineering. My academic experiences have been bolstered by a wide array of courses, from C++ and Java to SQL and HTML, providing me with a solid foundation in both programming and problem-solving. 🚀<br><br>✨ My hands-on experience includes developing a car management system using Java, a hotel management system employing SQL, and crafting a project marketplace in C#. Additionally, I've created approximately eight engaging websites using HTML, CSS, and JavaScript, experiencing the powerful intersection of creativity and code.<br><br>Beyond code, I dive into the realm of storytelling through video editing on Da Vinci Resolve. Editing is a passion I’ve explored through creating montages for my YouTube channel, merging my technical and creative skills. 🎥<br><br>🤝 Always curious and driven, I am looking to connect with like-minded individuals and experienced professionals. If you share my enthusiasm for technology, or if you're simply intrigued by my journey, I welcome you to my network. Let's explore opportunities, share insights, or discuss potential collaborations.
 
+![Banner]([https://placehold.co/1600x400?text=Aryan+Ahad+%7C+Full+Stack+Developer](https://media.licdn.com/dms/image/v2/D4E16AQE-ODyH8dq3JA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729355588139?e=1744243200&v=beta&t=yTT-REy_brXTuWuTk48ypCGmTNMe-4E_lgas2Rj20Y8))
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/2hP7ruf5) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/aryan.ahad.7?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_aa_ironbat106) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-ahad-ateeq) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/IronBat106) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/IronBat106) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@IronBat106) 
+# Aryan Ahad Ateeq | Aspiring Full Stack Developer
+📍 Dhaka, Bangladesh  
+📧 aryanahadateeq02@gmail.com
+📞 +88 01969480067
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ironbat106&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ironbat106&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ironbat106&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 👨💻 About Me
+A passionate Computer Science student specializing in full-stack development. Currently pursuing my degree with a focus on modern web technologies and software engineering principles. Love transforming ideas into functional applications through clean code and innovative solutions.
 
----
-[![](https://visitcount.itsvg.in/api?id=ironbat106&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🚀 Current Activities
+- 🔭 Working on feq projects using MERN stack
+- 🌱 Learning Next.js
+- 👯 Looking to collaborate on open-source projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Skills
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Database
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-ahad-ateeq)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ironbat106)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/yourprofile](https://leetcode.com/u/xIfGwuKgi5/))
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanahadateeq02@gmail.com)
+
+## 📈 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=ironbat106&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ironbat106&layout=compact&theme=dark)
+![Contribution Stats](https://github-readme-stats.vercel.app/api?username=ironbat106&show_icons=true&theme=dark)
+
+## 🏆 Pinned Repositories
+[![Verti Task Client](https://github-readme-stats.vercel.app/api/pin/?username=ironbat106&repo=verti-task-client&theme=dark)](https://github.com/ironbat106/verti-task-client)
+[![Scarlet Table Client](https://github-readme-stats.vercel.app/api/pin/?username=ironbat106&repo=scarlet-table-client&theme=dark)](https://github.com/ironbat106/scarlet-table-client)
+[![Equisports Client](https://github-readme-stats.vercel.app/api/pin/?username=ironbat106&repo=equisports-client&theme=dark)](https://github.com/ironbat106/equisports-client)
