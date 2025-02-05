@@ -44,12 +44,8 @@ A passionate Computer Science student specializing in full-stack development. Cu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ironbat106&layout=compact&theme=dark)
 ![Contribution Stats](https://github-readme-stats.vercel.app/api?username=ironbat106&show_icons=true&theme=dark)
 
-Below is an updated **Pinned Repositories** section that meets your requirements. You can copy and paste the Markdown below into your profile README to replace your current pinned repositories section:
-
----
 
 ## 🏆 Pinned Repositories
-
 ### VertiTask (Client)
 **[VertiTask - Live Site](https://vertitask.web.app)**  
 **Description:**
