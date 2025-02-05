@@ -1,5 +1,5 @@
 
-![Banner]([https://placehold.co/1600x400?text=Aryan+Ahad+%7C+Full+Stack+Developer](https://media.licdn.com/dms/image/v2/D4E16AQE-ODyH8dq3JA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729355588139?e=1744243200&v=beta&t=yTT-REy_brXTuWuTk48ypCGmTNMe-4E_lgas2Rj20Y8))
+![Banner](https://github.com/user-attachments/assets/052e3d14-e9a4-4aea-8acb-1c30afc3b033)
 
 # Aryan Ahad Ateeq | Aspiring Full Stack Developer
 📍 Dhaka, Bangladesh  
